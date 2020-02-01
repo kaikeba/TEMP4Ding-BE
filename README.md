@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-2.1.9.RELEASE-blue.svg" alt="Downloads">
+  <img src="https://img.shields.io/badge/MySQL-5.7-blue.svg" alt="Coverage Status">
   <img src="https://img.shields.io/badge/开课吧-JAVA-blue.svg" alt="Coverage Status">
-  
+    
 </p>
 
 
